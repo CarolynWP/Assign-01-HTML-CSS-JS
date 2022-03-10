@@ -3,13 +3,19 @@ body {
 }
 
 h1 {
-	color: #ad5c00;
+	color: #003d14;
+	padding: 30px;
+	text-align: center;
+}
+
+h3 {
+	color: #7a0000;
 	padding: 30px;
 	text-align: center;
 }
 
 h5{
-	color: #ad5c00;
+	color: #3d2100;
 	padding: 30px;
 }
 
